@@ -1,0 +1,51 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.outer {
+    background-color: green;
+    width: 800px;
+    height: 550px;
+}
+.inner {
+    background-color: red;
+    width: 450px;
+    height: 200px;
+    /* margin: 10px; */
+    /* margin-top: 10px; */
+    /* margin-bottom: 100px; */
+    /* margin-left: 50px; */
+    /* margin: 40px 40px 40px 40px; */
+    /* padding: 10px; */
+    /* padding-left: 20px ; */
+    /* padding-top: 40px; */
+    /* outline: 10px solid aqua; */
+    /* outline-offset: 60px; */
+    /* text-align: center; */
+    /* text-align: end; */
+    /* text-align: justify; */
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align:inherit; */
+    /* text-align: initial; */
+    /* direction: ltr; */
+    /* direction: rtl; */
+    /* direction: unset; */
+    /* unicode-bidi: bidi-override; */
+    /* text-decoration-color:yellow; */
+    /* text-decoration-style: double; */
+    /* text-decoration-thickness:67px; */
+    /* text-decoration-line: line-through; */
+    /* text-decoration-line: overline ; */
+    /* text-decoration-line: underline; */
+    /* text-decoration-line: overline underline; */
+    /* text-decoration: underline yellow 3px wavy; */
+    /* text-indent: 130px; */
+    /* letter-spacing: 3px; */
+    /* line-height: 20px; */
+    /* word-spacing: 6px; */
+    /* white-space: 2px */
+    /* word-spacing: 7px; */
+    /* text-shadow: 5px 4px 6px blueviolet; */
+    
+}
